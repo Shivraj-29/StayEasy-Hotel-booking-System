@@ -1,0 +1,17 @@
+{
+  "name": "stayease",
+  "version": "1.0.0",
+  "description": "StayEase - hotel booking demo with customer and admin roles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
